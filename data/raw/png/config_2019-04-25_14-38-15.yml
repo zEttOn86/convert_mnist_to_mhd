@@ -1,0 +1,3 @@
+base: I:\project\convert_mnist_to_mhd
+outputDir: data/raw
+save_type: png
